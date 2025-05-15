@@ -1,0 +1,3 @@
+This is my second file that i will push into the server 
+that i created using touch second.txt
+and edited using notepad second.txt
